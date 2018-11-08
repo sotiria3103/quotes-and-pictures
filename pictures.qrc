@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/hearts">
+        <file>heart1.png</file>
+        <file>heart2.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>hearts.qrc</file>
+        <file>bin.png</file>
+        <file>background1.jpg</file>
+        <file>background2.jpg</file>
+    </qresource>
+</RCC>
